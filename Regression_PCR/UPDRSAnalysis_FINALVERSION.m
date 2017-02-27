@@ -49,26 +49,26 @@ timeElapsedMSE = toc
 
 % ========================= GRADIENT ALGORITHM =======================
 % ====================================================================
-% rng('default');
+rng('default');
 M = length(aHatMSE);       % Number of features
 threshold = 10^-6;      % Treshold for the stopping condition
 gamma = 10^-5;          % Speed of convergence
-% % countGA vector contains the number of iterations per each F0:
-% countGA = zeros(1, length(F0));     
-% 
-% tic 
-% for ii = 1:length(F0)
-%     
-%     [y_train, y_test, aHatGA, countGA(ii)] = GACoefficients(data_train_norm, ...
-%         data_test_norm, M, x_train, gamma, threshold, F0(ii));
-% 
-%     % In aHatFinal there is the final set of coefficients a(i+1):
-%     y_train_hat = x_train * aHatGA;
-%     y_test_hat = x_test * aHatGA;
-%     
-%     estimPlot(y_train, y_train_hat, y_test, y_test_hat, F0(ii), aHatGA, 'GA'); 
-% end
-% timeElapsedGA = toc
+% countGA vector contains the number of iterations per each F0:
+countGA = zeros(1, length(F0));     
+
+tic 
+for ii = 1:length(F0)
+    
+    [y_train, y_test, aHatGA, countGA(ii)] = GACoefficients(data_train_norm, ...
+        data_test_norm, M, x_train, gamma, threshold, F0(ii));
+
+    % In aHatFinal there is the final set of coefficients a(i+1):
+    y_train_hat = x_train * aHatGA;
+    y_test_hat = x_test * aHatGA;
+    
+    estimPlot(y_train, y_train_hat, y_test, y_test_hat, F0(ii), aHatGA, 'GA'); 
+end
+timeElapsedGA = toc
 
 % ========================= STEPEST DESCENT ==========================
 % ====================================================================
