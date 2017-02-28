@@ -23,6 +23,7 @@ updrsNew = dataLoading(updrs, nOfPatients, nOfDays);
 [data_train_norm, data_test_norm] = matNorm(updrsNew, trainingPatients);
 
 consideredFeatures = [2:4 8:22];
+% consideredFeatures = 5:22;
 trainMatrix = data_train_norm(:, consideredFeatures);
 testMatrix = data_test_norm(:, consideredFeatures);
 x_train = trainMatrix;
@@ -36,7 +37,7 @@ tic
 % ====================================================================
 for ii = 1:length(F0)
     % MSECoefficients function returns MSE coefficients and the test and
-    % train vectors.
+    % train vectors.    
     [y_train, y_test, aHatMSE] = MSECoefficients(data_train_norm, ...
         data_test_norm , x_train, F0(ii));
 
