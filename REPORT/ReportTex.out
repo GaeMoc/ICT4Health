@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Linear regression - PCR - Neural Networks}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Introduction}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Linear regression}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Principal Component Regression}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Neural networks - Introduction}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{No hidden layers regression}{subsection.2.4}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Two hidden layers regression}{subsection.2.4}% 8
+\BOOKMARK [1][-]{section.3}{Classification}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Introduction}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Binary classification}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Minimum distance criterion}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Bayesian approach}{subsection.3.2}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Neural network - Tensorflow}{subsection.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Conclusions}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{Classification 16 classes}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{Clustering}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{K-means introduction}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{Hard K-means 2 clusters}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.3}{K-means 4 clusters}{section.4}% 20
+\BOOKMARK [1][-]{section.5}{Hierarchical trees}{}% 21
+\BOOKMARK [2][-]{subsection.5.1}{Introduction}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.2}{Hierarchical clustering}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.3}{Hierarchical classification}{section.5}% 24
+\BOOKMARK [1][-]{section.6}{Neural networks: Tensorflow}{}% 25
+\BOOKMARK [2][-]{subsection.6.1}{Introduction}{section.6}% 26

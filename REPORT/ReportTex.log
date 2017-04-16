@@ -1,0 +1,849 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.13)  16 APR 2017 17:43
+entering extended mode
+**./ReportTex.tex
+(ReportTex.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen120
+\Hy@linkcounter=\count94
+\Hy@pagecounter=\count95
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count96
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count97
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen121
+\Fld@menulength=\count98
+\Field@Width=\dimen122
+\Fld@charsize=\dimen123
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count99
+\c@Item=\count100
+\c@Hfootnote=\count101
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\matlab-prettifier\matlab-prettifier.sty
+"
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab 
+source code
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2016/06/19 v1.99m Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count104
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count105
+\lst@currlwidth=\dimen124
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen125
+\lst@width=\dimen126
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen127
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+\netBracketCount@mlpr=\count112
+\blkLvl@mlpr=\count113
+\blkLvlAtClassdef@mlpr=\count114
+\emHeight@mlpr=\skip44
+\jayDepth@mlpr=\skip45
+\sectionRuleOffset@mlpr=\skip46
+\toks@mlpr=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\filecontents\filecontents.sty"
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count115
+\float@exts=\toks18
+\float@box=\box28
+\@float@everytoks=\toks19
+\@floatcapt=\box29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen128
+\WF@size=\dimen129
+\c@WF@wrappedlines=\count116
+\WF@box=\box30
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) (ReportTex.aux)
+\openout1 = `ReportTex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 21.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen130
+\scratchbox=\box31
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen131
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks22
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 21.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count123
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+
+(ReportTex.out) (ReportTex.out)
+\@outlinefile=\write3
+\openout3 = `ReportTex.out'.
+
+\c@lstlisting=\count124
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+<pictures/logo.jpg, id=107, 691.6239pt x 269.20575pt>
+File: pictures/logo.jpg Graphic file (type jpg)
+ <use pictures/logo.jpg>
+Package pdftex.def Info: pictures/logo.jpg used on input line 49.
+(pdftex.def)             Requested size: 345.81111pt x 134.60254pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 56.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./pictures/logo.jpg>]
+(ReportTex.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `ReportTex.toc'.
+
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.99 
+      [1] <pictures/MSE_F5_2.png, id=160, 1028.34187pt x 490.08093pt>
+File: pictures/MSE_F5_2.png Graphic file (type png)
+
+<use pictures/MSE_F5_2.png>
+Package pdftex.def Info: pictures/MSE_F5_2.png used on input line 102.
+(pdftex.def)             Requested size: 308.50494pt x 147.0254pt.
+
+<pictures/MSE_F7_2.png, id=161, 1028.34187pt x 490.08093pt>
+File: pictures/MSE_F7_2.png Graphic file (type png)
+
+<use pictures/MSE_F7_2.png>
+Package pdftex.def Info: pictures/MSE_F7_2.png used on input line 108.
+(pdftex.def)             Requested size: 308.50494pt x 147.0254pt.
+ [2 <./pictures/MSE_F5_2.png (PNG copy)> <./pictures/MSE_F7_2.png (PNG copy)>]
+<pictures/PCR.png, id=180, 1028.34187pt x 490.08093pt>
+File: pictures/PCR.png Graphic file (type png)
+ <use pictures/PCR.png>
+Package pdftex.def Info: pictures/PCR.png used on input line 129.
+(pdftex.def)             Requested size: 215.0023pt x 102.46387pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+
+ []
+
+[3 <./pictures/PCR.png (PNG copy)>]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 140.
+ (scripts/UPDRSAnalysis_FINALVERSION.m
+Overfull \hbox (27.99983pt too wide) in paragraph at lines 14--16
+[][][][] 
+ []
+
+[4] [5]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 116.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+ [6] [7])
+(scripts/dataLoading.m
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 3.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 3.
+[8]) (scripts/matNorm.m [9]) (scripts/MSECoefficients.m) (scripts/estimPlot.m
+[10]) <pictures/MSE_F5_FINAL.png, id=512, 1028.34187pt x 436.63126pt>
+File: pictures/MSE_F5_FINAL.png Graphic file (type png)
+
+<use pictures/MSE_F5_FINAL.png>
+Package pdftex.def Info: pictures/MSE_F5_FINAL.png used on input line 148.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ [11]
+<pictures/MSE_F7_FINAL.png, id=554, 1028.34187pt x 436.63126pt>
+File: pictures/MSE_F7_FINAL.png Graphic file (type png)
+
+<use pictures/MSE_F7_FINAL.png>
+Package pdftex.def Info: pictures/MSE_F7_FINAL.png used on input line 154.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ (scripts/GACoefficients.m [12 <./pictures/MSE_F5_FINAL.png (PNG copy)> <./pict
+ures/MSE_F7_FINAL.png (PNG copy)>])
+<pictures/GA_F5_FINAL.png, id=569, 1028.34187pt x 436.63126pt>
+File: pictures/GA_F5_FINAL.png Graphic file (type png)
+
+<use pictures/GA_F5_FINAL.png>
+Package pdftex.def Info: pictures/GA_F5_FINAL.png used on input line 162.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+
+<pictures/GA_F7_FINAL.png, id=570, 1028.34187pt x 436.63126pt>
+File: pictures/GA_F7_FINAL.png Graphic file (type png)
+
+<use pictures/GA_F7_FINAL.png>
+Package pdftex.def Info: pictures/GA_F7_FINAL.png used on input line 168.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ [13 <./pictures/GA_F5_FINAL.png (PNG copy)>]
+(scripts/SDCoefficients.m)
+<pictures/SD_F5_FINAL.png, id=595, 1028.34187pt x 436.63126pt>
+File: pictures/SD_F5_FINAL.png Graphic file (type png)
+
+<use pictures/SD_F5_FINAL.png>
+Package pdftex.def Info: pictures/SD_F5_FINAL.png used on input line 176.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ [14 <./pictures/GA_F7_FINAL.png (PNG copy)>]
+<pictures/SD_F7_FINAL.png, id=627, 1028.34187pt x 436.63126pt>
+File: pictures/SD_F7_FINAL.png Graphic file (type png)
+
+<use pictures/SD_F7_FINAL.png>
+Package pdftex.def Info: pictures/SD_F7_FINAL.png used on input line 182.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ (scripts/PCRCoefficients.m [15 <./pictures/SD_F5_FINAL.png (PNG copy)> <./pict
+ures/SD_F7_FINAL.png (PNG copy)>])
+(scripts/estimPlotPCR.m [16])
+<pictures/PCR_F5_FINAL.png, id=689, 1028.34187pt x 436.63126pt>
+File: pictures/PCR_F5_FINAL.png Graphic file (type png)
+
+<use pictures/PCR_F5_FINAL.png>
+Package pdftex.def Info: pictures/PCR_F5_FINAL.png used on input line 191.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+
+<pictures/PCR_F5_ERRORS.png, id=690, 1028.34187pt x 436.63126pt>
+File: pictures/PCR_F5_ERRORS.png Graphic file (type png)
+
+<use pictures/PCR_F5_ERRORS.png>
+Package pdftex.def Info: pictures/PCR_F5_ERRORS.png used on input line 197.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+
+<pictures/PCR_F7_FINAL.png, id=691, 1028.34187pt x 436.63126pt>
+File: pictures/PCR_F7_FINAL.png Graphic file (type png)
+
+<use pictures/PCR_F7_FINAL.png>
+Package pdftex.def Info: pictures/PCR_F7_FINAL.png used on input line 203.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ [17 <./pictures/PCR_F5_FINAL.png (PNG copy)> <./pictures/PCR_F5_ERRORS.png (PN
+G copy)>]
+<pictures/PCR_F7_ERRORS.png, id=702, 1028.34187pt x 436.63126pt>
+File: pictures/PCR_F7_ERRORS.png Graphic file (type png)
+
+<use pictures/PCR_F7_ERRORS.png>
+Package pdftex.def Info: pictures/PCR_F7_ERRORS.png used on input line 209.
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+
+<pictures/PCR_F5_REGRESSION.png, id=703, 1028.34187pt x 436.63126pt>
+File: pictures/PCR_F5_REGRESSION.png Graphic file (type png)
+
+<use pictures/PCR_F5_REGRESSION.png>
+Package pdftex.def Info: pictures/PCR_F5_REGRESSION.png used on input line 215.
+
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ [18 <./pictures/PCR_F7_FINAL.png (PNG copy)> <./pictures/PCR_F7_ERRORS.png (PN
+G copy)>]
+<pictures/PCR_F7_REGRESSION.png, id=710, 1028.34187pt x 436.63126pt>
+File: pictures/PCR_F7_REGRESSION.png Graphic file (type png)
+
+<use pictures/PCR_F7_REGRESSION.png>
+Package pdftex.def Info: pictures/PCR_F7_REGRESSION.png used on input line 221.
+
+(pdftex.def)             Requested size: 387.00153pt x 164.3226pt.
+ [19 <./pictures/PCR_F5_REGRESSION.png (PNG copy)> <./pictures/PCR_F7_REGRESSIO
+N.png (PNG copy)>]
+<pictures/regrF52HL.png, id=722, 578.16pt x 433.62pt>
+File: pictures/regrF52HL.png Graphic file (type png)
+
+<use pictures/regrF52HL.png>
+Package pdftex.def Info: pictures/regrF52HL.png used on input line 239.
+(pdftex.def)             Requested size: 193.49292pt x 142.26135pt.
+
+<pictures/regrF52HL_TEST.png, id=724, 578.16pt x 433.62pt>
+File: pictures/regrF52HL_TEST.png Graphic file (type png)
+
+<use pictures/regrF52HL_TEST.png>
+Package pdftex.def Info: pictures/regrF52HL_TEST.png used on input line 244.
+(pdftex.def)             Requested size: 193.49292pt x 142.26135pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 238--248
+[]$[]$ $[]$ 
+ []
+
+[20 <./pictures/regrF52HL.png> <./pictures/regrF52HL_TEST.png>]
+<pictures/regrF72HL.png, id=735, 578.16pt x 433.62pt>
+File: pictures/regrF72HL.png Graphic file (type png)
+
+<use pictures/regrF72HL.png>
+Package pdftex.def Info: pictures/regrF72HL.png used on input line 258.
+(pdftex.def)             Requested size: 193.49292pt x 142.26135pt.
+
+<pictures/regrF72HL_TEST.png, id=736, 578.16pt x 433.62pt>
+File: pictures/regrF72HL_TEST.png Graphic file (type png)
+
+<use pictures/regrF72HL_TEST.png>
+Package pdftex.def Info: pictures/regrF72HL_TEST.png used on input line 263.
+(pdftex.def)             Requested size: 193.49292pt x 142.26135pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 257--267
+[]$[]$ $[]$ 
+ []
+
+(scripts/Exercise6.py [21 <./pictures/regrF72HL.png> <./pictures/regrF72HL_TEST
+.png>] [22] [23] [24] [25] [26])
+<pictures/regrF5NOHL.png, id=991, 578.16pt x 433.62pt>
+File: pictures/regrF5NOHL.png Graphic file (type png)
+
+<use pictures/regrF5NOHL.png>
+Package pdftex.def Info: pictures/regrF5NOHL.png used on input line 277.
+(pdftex.def)             Requested size: 387.00153pt x 290.246pt.
+ [27] [28 <./pictures/regrF5NOHL.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+[29] <pictures/confMat.png, id=1037, 1028.34187pt x 490.08093pt>
+File: pictures/confMat.png Graphic file (type png)
+
+<use pictures/confMat.png>
+Package pdftex.def Info: pictures/confMat.png used on input line 324.
+(pdftex.def)             Requested size: 411.32947pt x 196.0289pt.
+ [30] [31 <./pictures/confMat.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+ []
+
+(scripts/ArrythmiaClassification_Clustering.m [32] [33] [34] [35] [36] [37]
+[38] [39] [40] [41] [42] [43] [44]) (scripts/prob2Class.m [45])
+<pictures/kmeans_2clust_perf.png, id=1632, 1028.34187pt x 436.63126pt>
+File: pictures/kmeans_2clust_perf.png Graphic file (type png)
+
+<use pictures/kmeans_2clust_perf.png>
+Package pdftex.def Info: pictures/kmeans_2clust_perf.png used on input line 366
+.
+(pdftex.def)             Requested size: 430.00462pt x 182.57771pt.
+
+<pictures/kmeans_random_2clust.png, id=1633, 1028.34187pt x 436.63126pt>
+File: pictures/kmeans_random_2clust.png Graphic file (type png)
+
+<use pictures/kmeans_random_2clust.png>
+Package pdftex.def Info: pictures/kmeans_random_2clust.png used on input line 3
+72.
+(pdftex.def)             Requested size: 430.00462pt x 182.57771pt.
+ [46 <./pictures/kmeans_2clust_perf.png (PNG copy)>] <pictures/silhouette2cl.pn
+g, id=1650, 995.21812pt x 459.21562pt>
+File: pictures/silhouette2cl.png Graphic file (type png)
+
+<use pictures/silhouette2cl.png>
+Package pdftex.def Info: pictures/silhouette2cl.png used on input line 378.
+(pdftex.def)             Requested size: 365.50655pt x 168.65285pt.
+
+<pictures/silhouette4cl.png, id=1651, 1028.34187pt x 436.63126pt>
+File: pictures/silhouette4cl.png Graphic file (type png)
+
+<use pictures/silhouette4cl.png>
+Package pdftex.def Info: pictures/silhouette4cl.png used on input line 384.
+(pdftex.def)             Requested size: 430.00462pt x 182.57771pt.
+ [47 <./pictures/kmeans_random_2clust.png (PNG copy)> <./pictures/silhouette2cl
+.png>] [48 <./pictures/silhouette4cl.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+
+ []
+
+[49] (scripts/HierarchicalClustering.m
+Overfull \hbox (27.99983pt too wide) in paragraph at lines 6--7
+[][][][] 
+ []
+
+
+Overfull \hbox (27.99983pt too wide) in paragraph at lines 32--33
+[][][][] 
+ []
+
+[50]
+Overfull \hbox (27.99983pt too wide) in paragraph at lines 72--73
+[][][][] 
+ []
+
+[51]) <pictures/dendrograms.png, id=1756, 421.575pt x 316.18124pt>
+File: pictures/dendrograms.png Graphic file (type png)
+
+<use pictures/dendrograms.png>
+Package pdftex.def Info: pictures/dendrograms.png used on input line 421.
+(pdftex.def)             Requested size: 344.005pt x 258.00626pt.
+ [52]
+<pictures/decisionTree.png, id=1786, 514.92375pt x 316.18124pt>
+File: pictures/decisionTree.png Graphic file (type png)
+
+<use pictures/decisionTree.png>
+Package pdftex.def Info: pictures/decisionTree.png used on input line 427.
+(pdftex.def)             Requested size: 344.005pt x 211.23726pt.
+ [53 <./pictures/dendrograms.png (PNG copy)> <./pictures/decisionTree.png (PNG 
+copy)>] [54] (ReportTex.lof)
+\tf@lof=\write5
+\openout5 = `ReportTex.lof'.
+
+ [55] (ReportTex.lol)
+\tf@lol=\write6
+\openout6 = `ReportTex.lol'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 453.
+ [56]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 453.
+ (ReportTex.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 453.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 453.
+Package rerunfilecheck Info: File `ReportTex.out' has not changed.
+(rerunfilecheck)             Checksum: 6481B81189706492CACABE16049AF500;1823.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 453.
+ ) 
+Here is how much of TeX's memory you used:
+ 12435 strings out of 493334
+ 185398 string characters out of 3139251
+ 429677 words of memory out of 3000000
+ 14363 multiletter control sequences out of 15000+200000
+ 7615 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,8n,43p,1073b,2208s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\gaeta\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+tcrm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb>
+Output written on ReportTex.pdf (58 pages, 2725977 bytes).
+PDF statistics:
+ 2173 PDF objects out of 2487 (max. 8388607)
+ 1440 named destinations out of 1440 (max. 500000)
+ 349 words of extra memory for PDF output out of 10000 (max. 10000000)
+

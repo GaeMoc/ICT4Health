@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Linear regression - PCR - Neural Networks}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introduction}{1}{subsection.2.1}
+\contentsline {subparagraph}{Data cleaning and normalization}{1}{section*.2}
+\contentsline {subsection}{\numberline {2.2}Linear regression}{1}{subsection.2.2}
+\contentsline {subparagraph}{Minimum Square Error}{1}{section*.3}
+\contentsline {subparagraph}{Gradient Algorithm}{2}{section*.6}
+\contentsline {subparagraph}{Steepest Descent}{3}{section*.7}
+\contentsline {subparagraph}{Conclusions}{3}{section*.8}
+\contentsline {subsection}{\numberline {2.3}Principal Component Regression}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Neural networks - Introduction}{20}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}No hidden layers regression}{20}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Two hidden layers regression}{20}{subsubsection.2.4.2}
+\contentsline {section}{\numberline {3}Classification}{29}{section.3}
+\contentsline {subsection}{\numberline {3.1}Introduction}{29}{subsection.3.1}
+\contentsline {subparagraph}{Data cleaning and normalization}{29}{section*.25}
+\contentsline {subsection}{\numberline {3.2}Binary classification}{29}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Minimum distance criterion}{29}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Bayesian approach}{29}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Neural network - Tensorflow}{30}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Conclusions}{30}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Classification 16 classes}{30}{subsection.3.4}
+\contentsline {section}{\numberline {4}Clustering}{31}{section.4}
+\contentsline {subsection}{\numberline {4.1}K-means introduction}{31}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Hard K-means 2 clusters}{31}{subsection.4.2}
+\contentsline {subparagraph}{Stating from classification distances}{32}{section*.27}
+\contentsline {subparagraph}{Starting from random distances}{32}{section*.28}
+\contentsline {subsection}{\numberline {4.3}K-means 4 clusters}{32}{subsection.4.3}
+\contentsline {section}{\numberline {5}Hierarchical trees}{49}{section.5}
+\contentsline {subsection}{\numberline {5.1}Introduction}{49}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Hierarchical clustering}{49}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Hierarchical classification}{49}{subsection.5.3}
+\contentsline {section}{\numberline {6}Neural networks: Tensorflow}{54}{section.6}
+\contentsline {subsection}{\numberline {6.1}Introduction}{54}{subsection.6.1}
